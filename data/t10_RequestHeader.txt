@@ -1,0 +1,8 @@
+POST /api/browser/edge/actions HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/json
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCJoYXNoIjoiQVh6QWNQUE01a289Iiwia2V5IjoiL2d1WS9qSDRMb1ZzRjA2WmNrMEN3dz09In0=
+User-Agent: SmartScreen/281479403536385
+Content-Length: 1326
+Host: nav.smartscreen.microsoft.com
+

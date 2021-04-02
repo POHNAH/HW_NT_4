@@ -1,0 +1,248 @@
+[API Trapper      (3348:1e50)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 328:2ce4)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 328:10dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 328:10dc)] Load Network Traffic Analyzers:
+[Network Analyzer ( 328:10dc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 328:10dc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( 328:10dc)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 328:10dc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( 328:10dc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 328:10dc)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 328:10dc)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 328:10dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 328:2d90)] Address lookup for VolkovAI-book = 192.168.1.64
+[API Trapper      (26e0:2154)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\89.0.774.63\BHO\ie_to_edge_stub.exe
+[API Trapper      (2c7c:322c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (3030:17d8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( dd0:2df4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 328:10dc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (2e70:28d0)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (2e70:30c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2e70:30c4)] Load Network Traffic Analyzers:
+[Network Analyzer (2e70:30c4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2e70:30c4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2e70:30c4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2e70:30c4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2e70:30c4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2e70:30c4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2e70:30c4)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2e70:30c4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c7c:  7c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c7c:  7c)] Load Network Traffic Analyzers:
+[Network Analyzer (2c7c:  7c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2c7c:  7c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 328:10dc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2c7c:  7c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2c7c:  7c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2c7c:  7c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2c7c:  7c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2c7c:  7c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2c7c:  7c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2e70:3214)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (2c7c: 6a8)] Address lookup for VolkovAI-book = 192.168.1.64
+[API Trapper      (2f7c:31ac)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (165c:3180)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (2574: 668)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 328:2cf0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2cf0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Net An. Warning  ( 328:10dc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 328:10dc)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 328:337c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Web Request      ( 328:2d90)] "GET /webtours/"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 270 bytes (Service=HTTP)
+[Network Analyzer ( 328:337c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 865 bytes  (Service=HTTP)
+[API Trapper      (2cfc:30cc)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Web Request      ( 328:2d90)] "GET /webtours/header.html"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 323 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 1208 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( 328:2d90)]   (Sid:  2) Client -> Server @ : 334 bytes (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 354 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /webtours/images/webtours.png"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 355 bytes (Service=HTTP)
+[API Trapper      (3340:2f4c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer ( 328:337c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:10dc)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:337c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 328:10dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 328:10dc)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:337c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:10dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 328:337c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid:  2) Server -> Client : 1247 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 328:2d90)]   (Sid:  2) Client -> Server @ : 375 bytes (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/home.html"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 371 bytes (Service=HTTP)
+[Network Analyzer ( 328:10dc)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:337c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 1859 bytes  (Service=HTTP)
+[Network Analyzer ( 328:337c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 328:10dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid:  2) Server -> Client : 1957 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 386 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 976 bytes  (Service=HTTP)
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      ( 328:2d90)] "GET /favicon.ico"   
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (2c7c:  7c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (2c7c:  7c)] Request Connection: Remote Server @ 52.178.182.73:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2c7c:1dc0)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (2c7c:1dc0)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2c7c: 6a8)]   (Sid:  1) Client -> Server @ : 372 bytes (SSL)(Service=HTTP)
+[Web Request      (2c7c: 6a8)] "POST /api/browser/edge/actions"   
+[Network Analyzer (2c7c: 6a8)]   (Sid:  1) Client -> Server @ : 1326 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2c7c: 6a8)]   (Sid:  1) Server -> Client : 635 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2c7c: 6a8)]   (Sid:  1) Connection Terminated (by Server)
+[Net An. Warning  ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 328: c84)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 328: c84)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:337c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328: c84)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 328:337c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 328:2d90)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      ( 328:2d90)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 577 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 1052 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( 328:2d90)]   (Sid:  8) Connection Terminated (by Client)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 480 bytes (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Client -> Server @ : 475 bytes (Service=HTTP)
+[Network Analyzer ( 328:2cf0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328: 6f0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2cf0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 328: 6f0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 1970 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Server -> Client : 1380 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 504 bytes (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Client -> Server @ : 506 bytes (Service=HTTP)
+[Network Analyzer ( 328: 6f0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2cf0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328: c84)] Address lookup for VolkovAI-book = 192.168.1.64
+[Web Request      ( 328:2d90)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer ( 328: 6f0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      ( 328:2d90)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( 328:194c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2cf0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 328: c84)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( 328:194c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      ( 328:2d90)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 1065 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 497 bytes (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Client -> Server @ : 498 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 1970 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 510 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Server -> Client : 4735 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2cf0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:194c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:2cf0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( 328:2d90)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( 328:194c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Web Request      ( 328:2d90)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 512 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (2e70:30c4)] Address lookup for VolkovAI-book = 192.168.1.64
+[Web Request      ( 328:2d90)] "GET /WebTours/classes/"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 634 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/classes/"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 634 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/classes/"   
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Client -> Server @ : 482 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Server -> Client : 634 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Client -> Server @ : 836 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Server -> Client : 4016 bytes  (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer ( 328:2d90)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer ( 328:2d90)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( 328:2d90)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer ( 328:2d90)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( 328:2d90)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( 328:194c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328: c84)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:194c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( 328: c84)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (3348:1428)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3348:1428)] Load Network Traffic Analyzers:
+[Network Analyzer (3348:1428)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (3348:1428)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (3348:1428)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (3348:1428)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (3348:1428)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (3348:1428)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (3348:1428)]     Analyzer Module: local_server (value=)
+[Network Analyzer (3348:1428)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3348:1fe8)] Address lookup for VolkovAI-book = 192.168.1.64
+[Web Request      ( 328:2d90)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 328:2d90)]   (Sid: 19) Client -> Server @ : 754 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 19) Server -> Client : 3178 bytes  (Service=HTTP)
+[Network Analyzer (3348:1428)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (3348:2488)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (3348:1428)] Request Connection: Remote Server @ 52.164.226.245:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (3348:2488)] Request Connection: Remote Server @ 52.164.226.245:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (3348: bc0)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348: bc0)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348:22a0)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348:22a0)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (3348:1fe8)] "GET /l1.dat?cw=637529088473578758&v=3&cv=9.11.19041.0&os=10.0.19042.0.0&pg=4A72F430-B40C-4D36-A068-CE33ADA5ADF9"   
+[Network Analyzer (3348:1fe8)]   (Sid:  1) Client -> Server @ : 506 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3348:1fe8)]   (Sid:  1) Server -> Client : 281 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3348:1fe8)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      ( 328:2d90)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 328:2d90)]   (Sid: 19) Client -> Server @ : 890 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 19) Server -> Client : 3049 bytes  (Service=HTTP)
+[Web Request      ( 328:2d90)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer ( 328:2d90)]   (Sid: 20) Client -> Server @ : 496 bytes (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 20) Server -> Client : 1104 bytes  (Service=HTTP)
+[Network Analyzer ( 328: c84)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328: c84)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (3348:1af0)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (3348:2638)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer (3348:1af0)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (3348:2638)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (3348:189c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348:189c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348:1f1c)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3348:1f1c)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (3348:1fe8)] "GET /IE11/1478281996/iecompatviewlist.xml?cvlp=5359568756325679554"   
+[Network Analyzer (3348:1fe8)]   (Sid:  3) Client -> Server @ : 464 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3348:1fe8)]   (Sid:  3) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3348:1fe8)]   (Sid:  3) Server -> Client : 478 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3348:1fe8)]   (Sid:  3) Server -> Client : 9512 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 328:2d90)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer ( 328:2d90)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer ( 328:194c)] Address lookup for VolkovAI-book = 192.168.1.64
+[Network Analyzer ( 328:194c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
