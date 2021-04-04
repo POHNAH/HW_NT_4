@@ -1,4 +1,4 @@
-"firstName=Ivan&lastName=Ivanov&address1=Tverskaya&address2=3&pass1=Ivan+Ivanov&creditCard=3333"
-"&expDate=02%2F23&oldCCOption=on&numPassengers=1&seatType=First&seatPref=Aisle&outboundFlight=9"
-"51%3B771%3B02%2F04%2F2021&advanceDiscount=0&returnFlight=590%3B866%3B12%2F04%2F2021&JSFormSubm"
-"it=off&.cgifields=saveCC&buyFlights.x=49&buyFlights.y=14"
+"firstName=Sidor&lastName=Ivanov&address1=Lenina&address2=2&pass1=Sidor+Ivanov&creditCard=1111&"
+"expDate=02%2F23&oldCCOption=on&numPassengers=1&seatType=First&seatPref=None&outboundFlight=673"
+"%3B133%3B04%2F04%2F2021&advanceDiscount=0&returnFlight=&JSFormSubmit=off&.cgifields=saveCC&buy"
+"Flights.x=49&buyFlights.y=14"

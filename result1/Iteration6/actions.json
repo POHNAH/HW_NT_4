@@ -6,25 +6,25 @@
                 "stepId": "STEP23",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t3.inf",
-                "time": 1617331285092
+                "time": 1617540066939
             },
             {
                 "stepId": "STEP24",
                 "stepName": "Submit Form: reservations.pl",
                 "infFile": "t4.inf",
-                "time": 1617331285505
+                "time": 1617540067286
             },
             {
                 "stepId": "STEP25",
                 "stepName": "Submit Form: reservations.pl_2",
                 "infFile": "t5.inf",
-                "time": 1617331285894
+                "time": 1617540067575
             },
             {
                 "stepId": "STEP26",
                 "stepName": "Submit Form: reservations.pl_3",
                 "infFile": "t6.inf",
-                "time": 1617331286261
+                "time": 1617540067865
             }
         ],
         "transactions": []

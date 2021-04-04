@@ -1,110 +1,100 @@
 vuser_init.c(18): -----------------------------------------
-vuser_init.c(19): 131011.038963143zHDiiiApDVzzzzzHtAtDDpciVQ
-creatTicket.c(15): Zurich
-creatTicket.c(17): Zurich
+vuser_init.c(19): 131027.951154313zHDQHfApcDHftAtDipfAVtcf
+creatTicket.c(15): Seattle
+creatTicket.c(17): Los Angeles
 creatTicket.c(18): Window
 creatTicket.c(19): Business
-creatTicket.c(104): 990;0;02/04/2021
-creatTicket.c(106): 993;0;12/04/2021
-creatTicket.c(118): Sidor
-creatTicket.c(120): Sidorov
-creatTicket.c(121): Adress Lenina, 2
-creatTicket.c(122): Credit card 1111, 02/23
+creatTicket.c(44): 733;207;04/04/2021
+creatTicket.c(54): Ivan
+creatTicket.c(55): Petrov
+creatTicket.c(56): Adress Tverskaya, 4
+creatTicket.c(57): Credit card 1111, 03/24
+creatTicket.c(15): Zurich
+creatTicket.c(17): Frankfurt
+creatTicket.c(18): None
+creatTicket.c(19): Coach
+creatTicket.c(104): 911;176;04/04/2021
+creatTicket.c(106): 191;176;13/04/2021
+creatTicket.c(117): Ivan
+creatTicket.c(118): Sidorov
+creatTicket.c(119): Adress Lenina, 3
+creatTicket.c(120): Credit card 2222, 03/24
 creatTicket.c(15): San Francisco
-creatTicket.c(17): Portland
+creatTicket.c(17): Seattle
+creatTicket.c(18): None
+creatTicket.c(19): First
+creatTicket.c(44): 673;133;04/04/2021
+creatTicket.c(54): Sidor
+creatTicket.c(55): Ivanov
+creatTicket.c(56): Adress Lenina, 2
+creatTicket.c(57): Credit card 1111, 02/23
+creatTicket.c(15): Portland
+creatTicket.c(17): Los Angeles
 creatTicket.c(18): Aisle
 creatTicket.c(19): Coach
-creatTicket.c(104): 651;67;02/04/2021
-creatTicket.c(106): 563;62;12/04/2021
-creatTicket.c(118): Sidor
-creatTicket.c(120): Sidorov
-creatTicket.c(121): Adress Lenina, 4
-creatTicket.c(122): Credit card 1111, 03/24
-creatTicket.c(15): Zurich
-creatTicket.c(17): Portland
-creatTicket.c(18): Aisle
-creatTicket.c(19): First
-creatTicket.c(104): 951;771;02/04/2021
-creatTicket.c(106): 590;866;12/04/2021
-creatTicket.c(118): Ivan
-creatTicket.c(120): Ivanov
-creatTicket.c(121): Adress Tverskaya, 3
-creatTicket.c(122): Credit card 3333, 02/23
-creatTicket.c(15): Seattle
-creatTicket.c(17): Frankfurt
-creatTicket.c(18): Aisle
+creatTicket.c(104): 533;162;04/04/2021
+creatTicket.c(106): 352;187;13/04/2021
+creatTicket.c(117): Petr
+creatTicket.c(118): Ivanov
+creatTicket.c(119): Adress Oktyabrskaya, 4
+creatTicket.c(120): Credit card 2222, 01/22
+creatTicket.c(15): Frankfurt
+creatTicket.c(17): Sydney
+creatTicket.c(18): None
 creatTicket.c(19): Business
-creatTicket.c(44): 711;659;02/04/2021
-creatTicket.c(54): Sergey
-creatTicket.c(55): Ivanov
-creatTicket.c(56): Adress Oktyabrskaya, 4
+creatTicket.c(44): 181;1575;04/04/2021
+creatTicket.c(54): Petr
+creatTicket.c(55): Sergeev
+creatTicket.c(56): Adress Tverskaya, 3
 creatTicket.c(57): Credit card 2222, 01/22
 creatTicket.c(15): Paris
-creatTicket.c(17): Portland
-creatTicket.c(18): Aisle
-creatTicket.c(19): Coach
-creatTicket.c(44): 453;508;02/04/2021
-creatTicket.c(54): Ivan
-creatTicket.c(55): Petrov
-creatTicket.c(56): Adress Akademicheskaya, 3
-creatTicket.c(57): Credit card 3333, 03/24
-creatTicket.c(15): San Francisco
-creatTicket.c(17): Zurich
-creatTicket.c(18): Window
-creatTicket.c(19): Business
-creatTicket.c(44): 690;545;02/04/2021
-creatTicket.c(54): Ivan
-creatTicket.c(55): Petrov
-creatTicket.c(56): Adress Oktyabrskaya, 1
-creatTicket.c(57): Credit card 1111, 03/24
-creatTicket.c(15): Sydney
-creatTicket.c(17): Zurich
-creatTicket.c(18): Window
-creatTicket.c(19): Coach
-creatTicket.c(104): 890;1073;02/04/2021
-creatTicket.c(106): 980;1073;12/04/2021
-creatTicket.c(118): Ivan
-creatTicket.c(120): Sidorov
-creatTicket.c(121): Adress Akademicheskaya, 3
-creatTicket.c(122): Credit card 2222, 01/22
-creatTicket.c(15): Denver
-creatTicket.c(17): Portland
-creatTicket.c(18): Window
-creatTicket.c(19): Business
-creatTicket.c(44): 053;326;02/04/2021
-creatTicket.c(54): Ivan
-creatTicket.c(55): Petrov
-creatTicket.c(56): Adress Oktyabrskaya, 4
-creatTicket.c(57): Credit card 3333, 01/22
-creatTicket.c(15): Frankfurt
 creatTicket.c(17): Paris
 creatTicket.c(18): Aisle
 creatTicket.c(19): Business
-creatTicket.c(44): 140;186;02/04/2021
-creatTicket.c(54): Sergey
-creatTicket.c(55): Sergeev
-creatTicket.c(56): Adress Akademicheskaya, 2
-creatTicket.c(57): Credit card 3333, 03/24
-creatTicket.c(15): Seattle
-creatTicket.c(17): Denver
+creatTicket.c(104): 440;0;04/04/2021
+creatTicket.c(106): 441;0;13/04/2021
+creatTicket.c(117): Sergey
+creatTicket.c(118): Petrov
+creatTicket.c(119): Adress Oktyabrskaya, 3
+creatTicket.c(120): Credit card 1111, 03/24
+creatTicket.c(15): Sydney
+creatTicket.c(17): Frankfurt
 creatTicket.c(18): Aisle
 creatTicket.c(19): Coach
-creatTicket.c(104): 703;239;02/04/2021
-creatTicket.c(106): 072;276;12/04/2021
-creatTicket.c(118): Sergey
-creatTicket.c(120): Sergeev
-creatTicket.c(121): Adress Akademicheskaya, 1
-creatTicket.c(122): Credit card 3333, 02/23
-ticketCheck.c(69): Value of {firstClassTicket_1}: Business
-ticketCheck.c(69): Value of {firstClassTicket_2}: Coach
-ticketCheck.c(69): Value of {firstClassTicket_3}: First
-ticketCheck.c(69): Value of {firstClassTicket_4}: Business
-ticketCheck.c(69): Value of {firstClassTicket_5}: Coach
-ticketCheck.c(69): Value of {firstClassTicket_6}: Business
-ticketCheck.c(69): Value of {firstClassTicket_7}: Coach
-ticketCheck.c(69): Value of {firstClassTicket_8}: Business
-ticketCheck.c(69): Value of {firstClassTicket_9}: Business
-ticketCheck.c(69): Value of {firstClassTicket_10}: Coach
-ticketCheck.c(75): 0
-ticketCheck.c(76): 1
+creatTicket.c(44): 813;998;04/04/2021
+creatTicket.c(54): Sidor
+creatTicket.c(55): Sergeev
+creatTicket.c(56): Adress Tverskaya, 1
+creatTicket.c(57): Credit card 2222, 02/23
+creatTicket.c(15): London
+creatTicket.c(17): San Francisco
+creatTicket.c(18): None
+creatTicket.c(19): Business
+creatTicket.c(104): 262;803;04/04/2021
+creatTicket.c(106): 621;757;13/04/2021
+creatTicket.c(117): Sergey
+creatTicket.c(118): Petrov
+creatTicket.c(119): Adress Tverskaya, 4
+creatTicket.c(120): Credit card 2222, 03/24
+creatTicket.c(15): Los Angeles
+creatTicket.c(17): Seattle
+creatTicket.c(18): Aisle
+creatTicket.c(19): Coach
+creatTicket.c(44): 371;155;04/04/2021
+creatTicket.c(54): Ivan
+creatTicket.c(55): Ivanov
+creatTicket.c(56): Adress Oktyabrskaya, 4
+creatTicket.c(57): Credit card 1111, 01/22
+creatTicket.c(15): Frankfurt
+creatTicket.c(17): Seattle
+creatTicket.c(18): Aisle
+creatTicket.c(19): First
+creatTicket.c(104): 170;957;04/04/2021
+creatTicket.c(106): 710;957;13/04/2021
+creatTicket.c(117): Sidor
+creatTicket.c(118): Sergeev
+creatTicket.c(119): Adress Lenina, 4
+creatTicket.c(120): Credit card 3333, 03/24
+ticketCheck.c(44): Цена первого билета: 0 $
+ticketCheck.c(45): 4
 Vuser Terminated.

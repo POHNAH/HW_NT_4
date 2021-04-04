@@ -19,10 +19,12 @@
     <FileEntry Name="name.dat" Filter="2" />
     <FileEntry Name="randBoolean.dat" Filter="2" />
     <FileEntry Name="city.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
     <FileEntry Name="seat.dat" Filter="2" />
     <FileEntry Name="combined_HW_NT_4.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="169259253440.idx" Filter="1" />
     <FileEntry Name="178309314440.idx" Filter="1" />
     <FileEntry Name="237569578440.idx" Filter="1" />
@@ -55,6 +57,7 @@
     <FileEntry Name="23756957844_EJs.321.idx" Filter="1" />
     <FileEntry Name="23756957844_FFX.349.idx" Filter="1" />
     <FileEntry Name="23756957844_Fkv.969.idx" Filter="1" />
+    <FileEntry Name="23756957844_fSC.271.idx" Filter="1" />
     <FileEntry Name="23756957844_Fvj.173.idx" Filter="1" />
     <FileEntry Name="23756957844_Gm3.155.idx" Filter="1" />
     <FileEntry Name="23756957844_gvK.739.idx" Filter="1" />
@@ -103,6 +106,7 @@
     <FileEntry Name="23756957844_yHE.337.idx" Filter="1" />
     <FileEntry Name="23756957844_yHx.929.idx" Filter="1" />
     <FileEntry Name="23756957844_YPM.989.idx" Filter="1" />
+    <FileEntry Name="23756957844_Z5J.189.idx" Filter="1" />
     <FileEntry Name="23756957844_zr8.731.idx" Filter="1" />
     <FileEntry Name="23756957844_zVt.174.idx" Filter="1" />
     <FileEntry Name="23756957844_zXP.33.idx" Filter="1" />
@@ -151,6 +155,7 @@
     <FileEntry Name="3484487744_jMu.582.idx" Filter="1" />
     <FileEntry Name="3484487744_Kkt.472.idx" Filter="1" />
     <FileEntry Name="3484487744_ljC.278.idx" Filter="1" />
+    <FileEntry Name="3484487744_lLM.272.idx" Filter="1" />
     <FileEntry Name="3484487744_lmM.570.idx" Filter="1" />
     <FileEntry Name="3484487744_LSq.836.idx" Filter="1" />
     <FileEntry Name="3484487744_MdR.522.idx" Filter="1" />
@@ -169,6 +174,7 @@
     <FileEntry Name="3484487744_QDW.786.idx" Filter="1" />
     <FileEntry Name="3484487744_qSw.860.idx" Filter="1" />
     <FileEntry Name="3484487744_qYW.802.idx" Filter="1" />
+    <FileEntry Name="3484487744_RbN.190.idx" Filter="1" />
     <FileEntry Name="3484487744_rPA.972.idx" Filter="1" />
     <FileEntry Name="3484487744_SCR.34.idx" Filter="1" />
     <FileEntry Name="3484487744_sJF.616.idx" Filter="1" />
@@ -208,6 +214,7 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

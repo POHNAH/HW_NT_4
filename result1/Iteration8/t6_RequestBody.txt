@@ -1,4 +1,4 @@
-"firstName=Ivan&lastName=Petrov&address1=Oktyabrskaya&address2=4&pass1=Ivan+Petrov&creditCard=3"
-"333&expDate=01%2F22&oldCCOption=on&numPassengers=1&seatType=Business&seatPref=Window&outboundF"
-"light=053%3B326%3B02%2F04%2F2021&advanceDiscount=0&returnFlight=&JSFormSubmit=off&.cgifields=s"
-"aveCC&buyFlights.x=49&buyFlights.y=14"
+"firstName=Sergey&lastName=Petrov&address1=Tverskaya&address2=4&pass1=Sergey+Petrov&creditCard="
+"2222&expDate=03%2F24&saveCC=on&oldCCOption=on&numPassengers=1&seatType=Business&seatPref=None&"
+"outboundFlight=262%3B803%3B04%2F04%2F2021&advanceDiscount=0&returnFlight=621%3B757%3B13%2F04%2"
+"F2021&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=49&buyFlights.y=14"
